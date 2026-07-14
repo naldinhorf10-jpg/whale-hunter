@@ -1,0 +1,1 @@
+print("Whale Hunter iniciado...")
